@@ -41,6 +41,7 @@ body {
   margin-left: 25px;
 }
 
+
 a {
   color: #ffffff;
   text-decoration: none;
@@ -83,7 +84,7 @@ p {
   width: 20%;
   height: 100%;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  background-color: #2589bd;
+  background-color: black;
 }
 
 .benefit-lead {
@@ -141,6 +142,7 @@ p {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: black;
   color: #ffffff;
+  text-align: center;
 }
 
 .SKILLS {
@@ -150,6 +152,7 @@ p {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: black;
   color: #ffffff;
+  text-align: center;
 }
 
 .RESUME {
@@ -159,6 +162,7 @@ p {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: black;
   color: #ffffff;
+  text-align: center;
 }
 
 .ABOUT img {
