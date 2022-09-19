@@ -17,8 +17,9 @@ N/A
 Using this Portfolio will set us up for success by applying the skills that we learned in bootcamp while creating something that we will use for a future job search.
 
 # Credits
-https://victor5055.github.io/Challange-2/
-https://github.com/victor5055/Challange-2
+https://github.com/victor5055/Victor-Pereira-Portfolio
+https://victor5055.github.io/Victor-Pereira-Portfolio/
+https://www.w3schools.com/
 
 # License
 N/A
