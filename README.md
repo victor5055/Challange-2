@@ -1,7 +1,14 @@
 # Challange-2 Victor Pereira Portfolio
 
 # Disceiption
-This challange was created for students to make their portfolio to showcase our skills and talent on what we have recently learned.
+AS AN employer
+I WANT to view a potential employee's deployed portfolio of work samples
+SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+
+
+# Image
+
+![](ScreenShot%20img.jpg)
 
 # Installation
 N/A

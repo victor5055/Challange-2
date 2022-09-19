@@ -1,8 +1,38 @@
-@media(min-width:800px)and (max-width:1200px){
+/*Ipad Responsive */
+@media(min-width:390px)and (max-width:1200px){
 .header{
     height: 12vh;
 }
 .Title{
     margin-left: 10px;
 }
+}
+
+/* Mobile Responsive */
+@media (max-width: 844px) {
+    .header{
+     display: block;
+    }
+    .Title{
+        display: block;
+    }
+    .benefit {
+        display: block;
+
+    }
+    .ABOUT{
+        display: block;
+        height:fit-content;
+    }
+    .SKILLS{
+        display: block;
+        height:fit-content;
+    }
+
+    .RESUME{
+        display: block;
+        height:fit-content;
+    }
+
+
 }
