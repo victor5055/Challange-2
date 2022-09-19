@@ -40,6 +40,7 @@ align-items: center;
   color: black;
 }
  */
+ /*Header*/
 .header h1 {
   display: inline-block;
   font-size: 48px;
@@ -86,13 +87,13 @@ p {
   float: right;
   margin-left: 25px;
 }
-
+/*img of me content*/
 .content {
   display: flex;
   justify-content: center;
   width: 100vw;
 }
-
+/*image of me*/
 .Picture {
   width: 100vw;
 
@@ -135,28 +136,28 @@ p {
   text-align: center;
   color: #ffffff;
 }
-
+/*HTML img*/
 .HTML img {
   display: block;
   margin: 50px auto;
   max-width: 150px;
   border-radius: 30%;
 }
-
+/*JavaScript img*/
 .JavaScript img {
   display: block;
   margin: 50px auto;
   max-width: 150px;
   border-radius: 30%;
 }
-
+/*Css img*/
 .CSS img {
   display: block;
   margin: 50px auto;
   max-width: 150px;
   border-radius: 30%;
 }
-
+/*About me section*/
 .ABOUT {
   margin-bottom: 20px;
   padding: 70px;
@@ -168,7 +169,7 @@ p {
   display: flex;
   flex-direction: row;
 }
-
+/*Skills section*/
 .SKILLS {
   margin-bottom: 20px;
   padding: 70px;
@@ -178,7 +179,7 @@ p {
   color: #ffffff;
   text-align: center;
 }
-
+/*Resume section*/
 .RESUME {
   margin-bottom: 20px;
   padding: 70px;
@@ -188,7 +189,7 @@ p {
   color: #ffffff;
   text-align: center;
 }
-
+/*About img*/
 .ABOUT img {
   max-height: 220px;
   float:left;
@@ -204,7 +205,7 @@ p {
   
 
 }
-
+/*Skills img*/
 .SKILLS img {
   max-height: 200px;
   float: right;
@@ -219,7 +220,7 @@ p {
   box-shadow: 10px 10px 5px red;
   margin: 6px;
 }
-
+/*Resume image*/
 .RESUME img {
   max-height: 200px;
   float: left;
@@ -244,7 +245,7 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/*Contact information*/
 .CONTACT {
   padding: 30px;
   clear: both;
